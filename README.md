@@ -3,6 +3,8 @@
 ## Overview
 This project focuses on predicting customer churn in the banking sector using supervised learning techniques coupled with extensive feature engineering. By analyzing a comprehensive dataset from Kaggle, we aim to identify key factors influencing customer churn and provide actionable insights to reduce this churn rate.
 
+PS: Documentation file includes most of the visualizations and interpretations. 
+
 ## Dataset
 The dataset includes information on customers' credit score, geography, gender, age, tenure, account balance, number of products used, credit card ownership, active membership status, estimated salary, and churn status. Additional features such as customer complaints, satisfaction scores, and card types are also included to enrich the analysis.
 
